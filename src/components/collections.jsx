@@ -36,7 +36,7 @@ const Collections = () => {
 
   return (
     <div className="h-fit mid:h-screen mid:pb-10 text-white pt-4 md:pt-16 relative ">
-      <div className="flex relative flex-row mid:flex-row  mx-auto p-4 mt-6 md:pt-20 justify-center gap-14 ">
+      <div className="flex relative flex-col md:flex-row md:mb-32  mx-auto p-4 mt-6 md:pt-20 justify-center gap-14 ">
         
         <motion.div
           ref={ref1}

@@ -42,7 +42,7 @@ export default Footer;
 
 function NewsletterSubscribe() {
   return (
-    <div className="bg-gray-800 text-white py-10">
+    <div className="bg-gray-800 text-white py-10 md:py-20 my-4">
       <div className="container mx-auto px-4 md:px-12 text-center">
         <h2 className="text-2xl font-bold mb-4">Subscribe to Our Newsletter</h2>
         <p className="text-sm mb-6">

@@ -1,16 +1,16 @@
 
-
-
-
-
 #root {
   max-width: 1280px;
   margin: 0 auto;
   /* padding: 2rem; */
   /* text-align: center; */
   background-color: black;
-  padding-bottom: 200px;
+  padding-bottom: 20px;
 }
+div::-webkit-scrollbar {
+  display: none; /* Hides the scrollbar */
+}
+
 h1{
 
   font-family: 'Playfair Display', serif;
