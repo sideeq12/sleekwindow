@@ -1,5 +1,4 @@
 import { useState, useRef } from 'react'
-import { motion, useInView } from "framer-motion"
 import './App.css'
 import Scene from './components/scene'
 import { useScroll } from 'framer-motion'
